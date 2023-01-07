@@ -53,6 +53,7 @@
     font-style: normal;
     line-height: 23px;
     margin-top: 10px;
+    border-color: #F15B22;
 }
 
 .title {
@@ -132,7 +133,7 @@
 .img-point {
     top: 927px;
     size: 200px;
-    width: 500px;
+    width: 600px;
     left: 200px;
     background-color: lightcoral;
 
@@ -270,4 +271,37 @@
     color: #737272;
     font-size: 25px;
     font-weight: 500;
+}
+
+.positive {
+    top: 2268px;
+    height: 94px;
+    left: 290px;
+    width: 459px;
+    font-style: normal;
+    font-size: 40px;
+    font-size: 700;
+
+}
+
+.call {
+    
+    width: 88px;
+    height: 50px;
+    left: 300px;
+    top: 2422.26px;
+    color: #F15B22;
+border-radius: 5px;
+background: #FFFFFF;
+font-weight: 800;
+font-size: 15px;
+border-color: #F15B22;
+}
+.watch-img{
+    width: 1140px;
+    top: 2222.26px;
+    left: 230px;
+    height: 300px;
+   
+
 }
