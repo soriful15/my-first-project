@@ -281,55 +281,52 @@
     font-style: normal;
     font-size: 40px;
     font-size: 700;
+    position: relative;
+    color: #FFFFFF;
 
 
 }
 
 .call {
-    
+
     width: 88px;
     height: 50px;
     left: 300px;
     top: 2422.26px;
     color: #F15B22;
-border-radius: 5px;
-background: #FFFFFF;
-font-weight: 800;
-font-size: 15px;
-border-color: #F15B22;
+    border-radius: 5px;
+    background: #FFFFFF;
+    font-weight: 800;
+    font-size: 15px;
+    
 }
-.watch-img{
-    width: 1140px;
-    top: 2222.26px;
-    left: 230px;
-    height: 300px;
-   
 
+.my-plan {
+
+    left: 180px;
+    height: 100px;
+    font-size: 45px;
+    font-weight: bold;
+    margin-left: 60px;
+    color: #FFFFFF;
 }
-.my-plan{
-    
-     left: 180px;
-     height: 100px;
-     font-size: 45px;
-     font-weight: bold;
-     margin-left: 60px;
-     color: #FFFFFF;
- }
-    
-.about{
+
+.about {
     top: 2700px;
     background: #151414;
     height: 500px;
 
 
 }
-.email{
+
+.email {
     width: 230px;
     height: 60px;
     left: 1050px;
     margin-top: 60px;
 }
-.sub{
+
+.sub {
     width: 150px;
     height: 50px;
     left: 1050px;
@@ -339,11 +336,12 @@ border-color: #F15B22;
     font-weight: bolder;
     background-color: #FFFFFF;
     border-radius: 0;
-    
-    
-    
+
+
+
 }
-.subs{
+
+.subs {
     left: 1050px;
     font-size: 25px;
     line-height: 29px;
@@ -351,39 +349,61 @@ border-color: #F15B22;
     font-weight: bolder;
     color: #FFFFFF;
 }
-.email-name{
+
+.email-name {
     margin-top: 190px;
     margin-left: 210px;
     color: #FFFFFF;
 }
-.number{
+
+.number {
     margin-top: 220px;
     margin-left: 210px;
     color: #FFFFFF;
 }
-.plan-description{
+
+.plan-description {
     width: 485px;
     margin-top: 110px;
     margin-left: 130px;
     color: #FFFFFF;
 }
-.facebook{
-width: 47px;
-height: 46px;
-margin-left: 200px;
-margin-top: 250px;
+
+.facebook {
+    width: 47px;
+    height: 46px;
+    margin-left: 200px;
+    margin-top: 250px;
 
 
 }
-.twiter{
+
+.twiter {
     margin-top: 250px;
     width: 50px;
     height: 50px;
     margin-left: 280px;
 }
-.youtube{
+
+.youtube {
     margin-top: 250px;
     width: 47px;
     height: 46px;
     margin-left: 350px;
+}
+
+.wc-img {
+    background-image: url('../images/watch.png');
+    background-repeat: no-repeat;
+
+    width: 1140px;
+    top: 2222.26px;
+    left: 230px;
+    height: 300px;
+    
+}
+.gradient{
+    width: 1140px;
+    height: 300px;
+    right: 20px;
 }
