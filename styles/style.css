@@ -313,10 +313,13 @@ border-color: #F15B22;
      font-size: 45px;
      font-weight: bold;
      margin-left: 60px;
+     color: #FFFFFF;
  }
     
 .about{
     top: 2700px;
+    background: #151414;
+    height: 500px;
 
 
 }
@@ -337,6 +340,8 @@ border-color: #F15B22;
     background-color: #FFFFFF;
     border-radius: 0;
     
+    
+    
 }
 .subs{
     left: 1050px;
@@ -344,19 +349,23 @@ border-color: #F15B22;
     line-height: 29px;
     color: solid;
     font-weight: bolder;
+    color: #FFFFFF;
 }
 .email-name{
     margin-top: 190px;
     margin-left: 210px;
+    color: #FFFFFF;
 }
 .number{
     margin-top: 220px;
     margin-left: 210px;
+    color: #FFFFFF;
 }
 .plan-description{
     width: 485px;
     margin-top: 110px;
     margin-left: 130px;
+    color: #FFFFFF;
 }
 .facebook{
 width: 47px;
